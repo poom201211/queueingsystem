@@ -1,3 +1,3 @@
 # queueingsystem
 
-### Amusement park queueing
+### Queueing System for an Amusement Park
