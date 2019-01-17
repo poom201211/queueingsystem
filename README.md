@@ -1,6 +1,6 @@
 # Queueing System for an Amusement Park
  
- Students                   | ID
+ Students                   | IDs
 ----------------------------|-------------
  Thanapoom Rattanathumawat | 6010546672 
  Dachabhol Kotheeranurak   | 6010546664 
