@@ -1,8 +1,0 @@
-Thanapoom Rattanathumawat
-6010546672
-
-As a staff, I can choose to reject or skip the queue of a customer. So that the next queue doesnt have to wait.
-
-As a customer, I can make a queue without physically being at the amusement park. So that I am free to go do what ever I want.
-
-As a staff, I can organize queues remotely. So that I can be present elsewhere.
