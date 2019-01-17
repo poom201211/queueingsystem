@@ -1,6 +1,4 @@
-# queueingsystem
-
-## Queueing System for an Amusement Park
+# Queueing System for an Amusement Park
 
 #### Thanapoom Rattanathumawat - 6010546672
 #### Dachabhol Kotheeranurak   - 6010546664
