@@ -1,0 +1,11 @@
+Napasai Sutthichutipong
+6010545811
+
+As a staff 
+I can skip the queue so that I don't have to wait for customers who don't come in time.
+
+As a customer 
+I can queue without waiting in the line so that I can do anything while waiting for queue.
+
+As a customer 
+I can use queueing application so that I can get notification when my queue come.
