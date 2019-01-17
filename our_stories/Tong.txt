@@ -1,0 +1,12 @@
+Wisa Powthongchin
+6010545901
+
+As a staff,
+I can look at the detail of an individual queue for example, how long has this queue been waited for.
+
+As a customer,
+I can see the progress of my queue remotely so I can go and do something else while in queue.
+
+As a customer,
+I can see estimated wait time for any ride, so I can decide to go in queue or not.
+
