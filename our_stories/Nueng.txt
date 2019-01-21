@@ -1,0 +1,8 @@
+Pornpavee Seri-umnuoy
+6010545056
+
+As a staff, I can skip the queue for the next customer if the previous customer doesn't arrive on time.
+
+As a customer, I don't have to physically waiting in the line. So, I can do anything else while waiting.
+
+As a staff, I can estimated wait time for a customer. 
