@@ -4,8 +4,20 @@ Napasai Sutthichutipong
 As a staff 
 I can skip the queue so that I don't have to wait for customers who don't come in time.
 
+1) The product shall easy to use.
+2) The product shall show the queue to customers.
+3) The product shall skip the queue if customer doesn't come in time.
+
 As a customer 
 I can queue without waiting in the line so that I can do anything while waiting for queue.
 
+1) The product shall be able to create new queue.
+2) The product shall be able to confirm customer's status.
+3) The product shall show the queue of other playthings.
+
 As a customer 
 I can use queueing application so that I can get notification when my queue come.
+
+1) The product shall update the real-time queue.
+2) The product shall be able to cancel the customer's queue.
+3) The product shall notice the customer when the queue come or skipped.
