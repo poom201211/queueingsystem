@@ -3,6 +3,20 @@ Thanapoom Rattanathumawat
 
 As a staff, I can choose to reject or skip the queue of a customer. So that the next queue doesnt have to wait.
 
+1) The product shall show the list of queues
+2) The product shall notify the staff for any customer changes
+3) The product shall detele the specific queue if the customer not come.
+
 As a customer, I can make a queue without physically being at the amusement park. So that I am free to go do what ever I want.
 
+1) The product shall create a queue if the customer chooses to.
+2) The product shall confirm their status(Coming or not coming).
+3) The product shall send a notification to check if the customer is still coming.
+
 As a staff, I can organize queues remotely. So that I can be present elsewhere.
+
+1) The product shall execute the staffs action by sending a reminder to the customer of their status.
+2) The product shall confirm the customers action without a staff manually controlling the app.
+3) The product shall show the staff of whats to be confirmed.
+
+ 
