@@ -2,12 +2,15 @@ Dechabhol Kotheeranurak
 6010546664
 
 As a staff,
-I can check and give the queue for the arrived customer so that I can do other useful works. 
+I can check and give out the queue for the arrived customer 
+so that I can do other useful works. 
 
 
 As a customer,
-I don't have to wait in line so that I can go elsewhere to do other stuffs.
+I can be in the line without being present there 
+so that I can go elsewhere to do other stuffs.
 
 
 As a staff,
-If the customer doesn't arrive on time I can skip the queue so that the waiting time will be reduced.
+I can skip the queue if the customer doesn't arrive on time
+so that the waiting time will be reduced.
