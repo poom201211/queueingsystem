@@ -5,12 +5,24 @@ As a staff,
 I can check and give out the queue for the arrived customer 
 so that I can do other useful works. 
 
+1. The product shall display the the remaining queue to the staff and customers.
+2. The product shall scan the barcode of the entry ticket (no duplicate).
+3. The product shall stop giving queue if it exceeds the limit.
+
 
 As a customer,
 I can be in the line without being present there 
 so that I can go elsewhere to do other stuffs.
 
+1. The product shall remind the customer when it's nearly their queue.
+2. The product shall notify if the queue is being skipped.
+3. The product shall display the queue of other playthings.
+
 
 As a staff,
 I can skip the queue if the customer doesn't arrive on time
 so that the waiting time will be reduced.
+
+1. The product shall remove the names of those who don't arrive on time.
+2. The product shall update the queue within seconds.
+3. The product shall limit the customer to queue only one thing at a time.
