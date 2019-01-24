@@ -1,8 +1,20 @@
 Pornpavee Seri-umnuoy
 6010545056
 
-As a staff, I can skip the queue for the next customer if the previous customer doesn't arrive on time.
+As a staff, I can skip the queue for the next customer if the previous customer doesn't arrive on time so that another customer doesn't have to wait too long.
 
-As a customer, I don't have to physically waiting in the line. So, I can do anything else while waiting.
+1) The product shall show the list of queue of the customer to the staff.
+2) The product shall skip the queue of the customer by he/she doesn't arrive on time.
+3) THe product shall show the customer information to only authorized staff.
 
-As a staff, I can estimated wait time for a customer. 
+As a customer, I can queue even I don't physically waiting in the line so that I can do anything else while waiting.
+
+1) The product shall show the current queue to the customer(real-time).
+2) The product shall be mobility for customer to check his/her queue information. 
+3) The product shall notify customer if reach his/her queue.
+
+As a staff, I can estimate wait time for a customer so that I can tell the customer if he/she asked.
+
+1) The product shall show the estimate wait time for all queue to the staff.
+2) The product shall show the list of queue of the customer to the staff.
+3) The product shall show the real-time estimate wait time if the staff skip the customer queue. 
