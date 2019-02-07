@@ -1,0 +1,42 @@
+Thanapoom Rattanathumawat
+6010546672
+
+--------------------------------------------------------------
+
+As a developer,  
+I can update code that is already in my computer by using
+git pull so that I can work remotely.
+
+Use case Pull request: 
+
+1. Direct to your location of the project on your computer. 
+2. Right click and open git bash. 
+3. type in "git pull".
+
+--------------------------------------------------------------
+
+As a developer, 
+I can work as a team with other developers by creating a
+repository so that we can finish the work faster.
+
+Use case Creating a Repository:
+
+1. Create a directory to contain the project. 
+2. Go into the new directory. 
+3. Type git init. 
+4. Start typing in code. 
+5. Type git add to add the files. 
+6. Type git commit.
+
+--------------------------------------------------------------
+
+As a developer, 
+I can fork other developers project so that I can look to
+add features and/or fix their bugs.
+
+Use case Forking a Repository:
+
+1. On GitHub, navigate to the repository.
+2. In the top-right corner of the page, click Fork.
+
+--------------------------------------------------------------

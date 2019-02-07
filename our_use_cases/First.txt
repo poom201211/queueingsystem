@@ -1,0 +1,31 @@
+User stories <<
+
+As a developer,
+I can push my project to the remote repository
+so that I can work on it from a different computer.
+
+
+As a developer,
+I can do my work seperately by creating my own branch
+so that I won't have to pull it again.
+
+
+As a developer,
+I can clone my lost projects
+so that I can continue working on it.
+
+
+As a developer,
+I can create a pull request from the feature branch to the master branch
+so that my team members can review my code.
+
+>> 
+
+Use case: Create a pull request <<
+
+1. Go to your project repository then click on the "Pull Requests" button.
+2. After that, you can select which branch you want to merged into (optional: you can also write comments about your features).
+3. Then click on the "Create pull request" button and wait for others to review and leave comments on your code.
+4. Lastly, after your teammates have reviewed on your code then you're safe to merged it.
+
+>>
