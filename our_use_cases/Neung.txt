@@ -40,4 +40,3 @@ use case: Developer add his work files to github.
     5c. System rejects his push stage and send an error because found some conflict.
 
 
-
