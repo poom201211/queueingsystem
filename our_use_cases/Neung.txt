@@ -13,7 +13,7 @@ As a developer, I can sync my folder and start new repository so that I know whe
 As a developer, I can add my folder(all work files) so that I can prepare to publish them online.
 
 [git commit]
-As a developer, I can accept all files that I add and add comment so that I can record the files permanently in the history.
+As a developer, I can commit all files that I add and add comment so that I can record the files permanently in the history.
 
 [git push]
 As a developer, I can send the committed changes to my repository so that I can publish them online.
@@ -28,7 +28,16 @@ use case: Developer add his work files to github.
 1.Developer sets his name and email address by type in 'git config'.
 2.Developer starts new repository by type in 'git init'.
 3.Developer adds folder(all work files) by type in 'git add'.
-4.Developer accepts all files that he add and adds comment by type in 'git commit -m"*some comment*"'.
+4.Developer commits all files that he add and adds comment by type in 'git commit -m"*some comment*"'.
 5.Developer publish folder(all work files) to github by type in 'git push'.
+    5a. System accepts his push and publish them online.
+    5b. System ask username and password.
+        5b-1. Developer type correct user name and password.
+            5b-1.1. System accepts his push and publish them online.
+            5b-1.2. System rejects his push stage and send an error because his username isn't in contributor list.
+        5b-2. Developer type incorrect user name or password.
+            5b-2.1. System rejects his push stage and send an error.
+    5c. System rejects his push stage and send an error because found some conflict.
+
 
 
