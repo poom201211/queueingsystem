@@ -1,0 +1,31 @@
+user story:
+
+[git config]
+As a developer, I can set the author name and email address so that I can use author name and email that I set with my commits.
+
+[git init]
+As a developer, I can sync my folder and start new repository so that I know where it will publish my work.
+
+[git add]
+As a developer, I can add my folder(all work files) so that I can prepare to publish them online.
+
+[git commit]
+As a developer, I can accept all files that I add and add comment so that I can record the files permanently in the history.
+
+[git push]
+As a developer, I can send the committed changes to my repository so that I can publish them online.
+
+[git rm]
+As a developer, I can cancel some stage or file that I had commit or add by accident so that I can add and commit the correct file to git.
+
+----------------
+
+use case: Developer add his work files to github.
+
+1.Developer sets his name and email address by type in 'git config'.
+2.Developer starts new repository by type in 'git init'.
+3.Developer adds folder(all work files) by type in 'git add'.
+4.Developer accepts all files that he add and adds comment by type in 'git commit -m"*some comment*"'.
+5.Developer publish folder(all work files) to github by type in 'git push'.
+
+
