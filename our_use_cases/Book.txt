@@ -1,0 +1,26 @@
+Napasai Sutthichutipong 6010545811
+
+User story
+
+As a developer, 
+I can copy other people's project so that I can run their project to see what the project can do.
+
+Use case cloning project
+1. Click "Clone or download" button.
+2. Save link of reposity.
+3. Open command prompt.
+4. Type "git clone <repository_link>".
+
+User story
+
+As a developer,
+I can work on my branch so that I can avoid conflict from my colleague.
+
+As a developer,
+I can merge feature branch into master branch so that I can work on feature branch without crashing master branch.
+
+Use case branching
+1. Open git bash.
+2. Type "git branch <branch_name>".
+3. Type "git checkout <branch_name>" to change branch to new branch.
+
